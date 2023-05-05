@@ -22,6 +22,6 @@ The user can input their favorite recipes. You can use the ‘Add’ button to i
 
  
 
-**Why would anyone want to use the software over existing processes?** --------------------------------------------------------------------------------
+**Why would anyone want to use the software over existing processes?** ------------------------------------------------------------------------------
 
 Someone would prefer this over an existing process because the GUI is concise and simple. It is very easy to use, and it is placed to easily put all your information in. My software also is very efficient and sorts out the recipes quite fast. 
