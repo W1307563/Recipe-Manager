@@ -4,7 +4,7 @@ Anyone can use this software, especially food enthusiasts and cooks. People that
 
  
 
- What is the purpose of the software? ---------------------------------------------------------------------------------------------------------------
+ What is the purpose of the software? ---------------------------------------------------------------------------------------------------------------_
 
 The purpose of the software is to have a convenient spot to store your favorite recipes. Often, generations pass down recipes, and if one generation breaks the chain, the recipes might be lost forever. However, with this software people can store their favorite and most cherished recipes in one spot without fearing losing them.  
 
@@ -22,6 +22,6 @@ The user can input their favorite recipes. You can use the ‘Add’ button to i
 
  
 
- Why would anyone want to use the software over existing processes? ------------------------------------------------------------------------------------
+ Why would anyone want to use the software over existing processes? ----------------------------------------------------------------------------------
 
 Someone would prefer this over an existing process because the GUI is concise and simple. It is very easy to use, and it is placed to easily put all your information in. My software also is very efficient and sorts out the recipes quite fast. 
